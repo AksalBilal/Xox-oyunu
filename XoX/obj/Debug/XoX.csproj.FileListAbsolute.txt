@@ -1,0 +1,60 @@
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\bin\Debug\XoX.exe.config
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\bin\Debug\XoX.exe
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\bin\Debug\XoX.pdb
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.Form1.resources
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.Properties.Resources.resources
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.exe
+C:\Users\UMUT CAN\Desktop\XoX Denemeleri\XoX\XoX\obj\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\bin\Debug\XoX.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\bin\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\bin\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-2\XoX\obj\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\bin\Debug\XoX.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\bin\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\bin\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-3\XoX\obj\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\bin\Debug\XoX.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\bin\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\bin\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-4 son hali\XoX\obj\Debug\XoX.XOX.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.pdb
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.XOX.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.exe
+C:\Users\bilal\OneDrive\Masaüstü\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.pdb
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.exe.config
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.exe
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\bin\Debug\XoX.pdb
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csprojAssemblyReference.cache
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.XOX.resources
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.Properties.Resources.resources
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csproj.GenerateResource.cache
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.exe
+D:\ÖDEVLER\Yazılım Sınama 1.Ödev\XoX Denemeleri\XoX-5\XoX\obj\Debug\XoX.pdb
